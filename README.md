@@ -2,6 +2,7 @@
 
 
 esto es un cambio 1.1
+esto es un cambio 1.0 vamos pa produccion oleeeee!!!!!
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.8.
 
